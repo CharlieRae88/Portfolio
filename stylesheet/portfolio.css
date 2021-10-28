@@ -49,7 +49,6 @@ p {
     font-family: Papyrus, Copperplate Bold; /* assignes font for all of the paragraph elements */
     color:#fff;
     text-align: justify; /* Justify text within paragraph elements */
-    position: absolute;
     letter-spacing: .1vw; /* This expands the text slightly */
     font-size: 1.5vw; /* Relative font sizing equal to 1.5% of the viewport width */
     padding-left: 1vw; /* Relative padding equal to the 1% of the viewport width */
